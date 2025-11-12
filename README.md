@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">✨ 💻 Estudante de Desenvolvimento de Software  
-🐍 Experiência básica com Python e JavaScript  
+<p align="left">✨ 💻 Estudante de Desenvolvimento de Software<br>
+🐍 Experiência básica com Python e JavaScript<br> 
 🚀 Buscando minha primeira oportunidade como dev júnior
 
 📫 Entre em contato: bassanthiago@gmail.com
