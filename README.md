@@ -10,12 +10,14 @@
 
 ###
 
-<p align="left">✨ 💻 Estudante de Desenvolvimento de Software<br>
-🐍 Experiência básica com Python e JavaScript<br> 
+<p align="left">💻 Estudante de Engenharia de Software<br>
+🐍 Experiências com Python e JavaScript<br> 
 🚀 Buscando minha primeira oportunidade como dev júnior
 
 📫 Entre em contato: bassanthiago@gmail.com
 
+
+Aprendendo sobre: 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
